@@ -1,6 +1,6 @@
 # Sistem Informasi Identifikasi Data Tentang Asal Zona Tamu UGM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyek dari [Tim Satgas Covid-19 Universitas Gadjah Mada](https://www.ugm.ac.id).
 
 ## Available Scripts
 
